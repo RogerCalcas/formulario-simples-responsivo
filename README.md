@@ -16,6 +16,6 @@ O formulário inclui campos básicos como nome, e-mail, telefone. Ele também po
 
 ## Tecnologias Utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
